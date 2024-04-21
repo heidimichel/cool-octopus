@@ -20,6 +20,10 @@ h2 a:hover {
 h1, img {
     margin-bottom: 2em;
 }
+.top-menu {
+    height: 2em;
+    text-align: right;
+}
 .centercontainer {
     padding-top: 2em;
     max-width: 1000px;
