@@ -1,7 +1,7 @@
 body {
     background-color: #c5c5ff;
 }
-h1 a, h2 a {
+h1, h2, h1 a, h2 a {
     font-family: 'Lobster';
 }
 h1, h1 a {
