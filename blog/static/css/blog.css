@@ -1,0 +1,18 @@
+body {
+    background-color: #c5c5ff;
+}
+h1 a, h2 a {
+    color: #390176;
+}
+h1, img {
+    margin-bottom: 2em;
+}
+.centercontainer {
+    padding-top: 2em;
+    max-width: 800px;
+    margin: auto;
+}
+article {
+    background-color: white;
+    padding: 2em;
+}
