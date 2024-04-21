@@ -2,15 +2,33 @@ body {
     background-color: #c5c5ff;
 }
 h1 a, h2 a {
+    font-family: 'Lobster';
+}
+h1, h1 a {
+    color: #ffffff;
+    font-size: 2em;
+}
+h1 a:hover {
+    color: #dfdfff;
+}
+h2, h2 a {
     color: #390176;
+}
+h2 a:hover {
+    color: #200042;
 }
 h1, img {
     margin-bottom: 2em;
 }
 .centercontainer {
     padding-top: 2em;
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
+}
+.title {
+    width: 100%;
+    padding: 1em;
+    background-color: #ff63de;
 }
 article {
     background-color: white;
